@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BOJ_19173 {
+public class BOJ_16173 {
     public static class Pair<K, V> {
         public K first;
         public V second;
