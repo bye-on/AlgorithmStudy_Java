@@ -1,4 +1,4 @@
-package goring;
+package week01;
 
 import java.awt.Point;
 import java.io.BufferedReader;
