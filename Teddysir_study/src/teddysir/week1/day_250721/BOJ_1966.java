@@ -31,26 +31,24 @@ public class BOJ_1966 {
 			while (!q.isEmpty()) {
 				int[] temp = q.poll();
 				boolean checker = false;
-				
-				for(int[] doc : q) { 
-					if(temp[1] < doc[1]) {
+
+				for (int[] doc : q) {
+					if (temp[1] < doc[1]) {
 						checker = true;
-						break; // 스탑  
-						
+						break; // 스탑
+
 					}
 				}
 
-				if(checker) {
+				if (checker) {
 					q.add(temp);
-				} else{
+				} else {
 					count++;
-					if(temp[0] == find) {
+					if (temp[0] == find) {
 						break;
 					}
 				}
-				
 
-				
 			}
 			sb.append(count).append("\n");
 
