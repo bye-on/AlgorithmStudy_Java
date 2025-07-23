@@ -63,7 +63,7 @@ etc. 확인했으면 `approve`하기❗❗❗
 | # | Title | Difficulty |
 | :---: | :---: | :---: |
 | 1 | [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) | ![Silver II](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |
-| 2 | [2331 반복수열](https://www.acmicpc.net/problem/2331) | ![Silver IV](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |
+| 2 | [16173 점프왕 쩰리 (Small)](https://www.acmicpc.net/problem/16173) | ![Silver IV](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |
 
 ### DAY 4 그리디
 
