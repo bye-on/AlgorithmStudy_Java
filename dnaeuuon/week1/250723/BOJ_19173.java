@@ -1,11 +1,8 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.lang.reflect.Parameter;
-import java.util.LinkedList;
-import java.util.Queue;
 
-public class BOJ_16173 {
+public class BOJ_19173 {
     public static class Pair<K, V> {
         public K first;
         public V second;
@@ -19,6 +16,28 @@ public class BOJ_16173 {
     static int n;
     static int[] dx = { 0, 1 };
     static int[] dy = { 1, 0 };
+    static Pair<Integer, Integer> p = new Pair<Integer, Integer>(-1, -1);
+
+    public static void dfs(int[][] map, int x, int y) {
+        if (x == n - 1 && y == n - 1) {
+            p.first = x;
+            p.second = y;
+            return;
+        }
+
+        for (int i = 0; i < 2; i++) {
+            int nx = x + (dx[i] * map[x][y]);
+            int ny = y + (dy[i] * map[x][y]);
+
+            if (nx < 0 || nx >= n || ny < 0 || ny >= n)
+                continue;
+
+            if (map[nx][ny] == 0)
+                continue;
+
+            dfs(map, nx, ny);
+        }
+    }
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -33,35 +52,8 @@ public class BOJ_16173 {
             }
         }
 
-        Queue<Pair<Integer, Integer>> q = new LinkedList<>();
-        q.add(new Pair<>(0, 0));
-        boolean jelly = false;
-
-        while (!q.isEmpty()) {
-            int x = q.peek().first;
-            int y = q.peek().second;
-            q.poll();
-
-            if (x == n - 1 && y == n - 1) {
-                jelly = true;
-                break;
-            }
-
-            for (int i = 0; i < 2; i++) {
-                int nx = x + (dx[i] * map[x][y]);
-                int ny = y + (dy[i] * map[x][y]);
-
-                if (nx < 0 || nx >= n || ny < 0 || ny >= n)
-                    continue;
-
-                if (map[nx][ny] == 0)
-                    continue;
-
-                q.add(new Pair<>(nx, ny));
-            }
-        }
-
-        if (jelly)
+        dfs(map, 0, 0);
+        if (p.first == n - 1 && p.second == n - 1)
             System.out.println("HaruHaru");
         else
             System.out.println("Hing");
