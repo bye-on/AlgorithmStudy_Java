@@ -34,6 +34,44 @@ etc. 확인했으면 `approve`하기❗❗❗
 - 위 싸이클(3주 간격)로 스터디 진행
 - 심화 문제는 개인적으로 추가 공부 (기본 문제가 익숙해진다면 함께 진행)
 
+## WEEK 2 (0728 ~ 0803)
+
+### DAY 6 이분탐색/투포인터
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 기본 | [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816) | ![Silver IV](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |
+| 1 | [2003 수들의 합2](https://www.acmicpc.net/problem/2003) | ![Silver IV](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |
+| 2 | [2805 나무 자르기](https://www.acmicpc.net/problem/2805) | ![Silver II](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |
+
+### DAY 7 백트래킹
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [15649 N과 M (1)](https://www.acmicpc.net/problem/15649) | ![Silver III](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |
+| 2 | [15650 N과 M (2)](https://www.acmicpc.net/problem/2805) | ![Silver III](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |
+
+### DAY 8 최단경로
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [18352 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | ![Silver II](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |
+| 2 | [1446 지름길](https://www.acmicpc.net/problem/1446) | ![Silver I](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |
+
+### DAY 9 Union/Find
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [1717 집합의 표현](https://www.acmicpc.net/problem/1717) | ![Gold V](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat) |
+| 2 | [1043 거짓말](https://www.acmicpc.net/problem/1043) | ![Gold IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
+
+### DAY 10 위상정렬
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [2056 작업](https://www.acmicpc.net/problem/1717) | ![Gold IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
+| 2 | [14567 선수과목 (Prerequisite)](https://www.acmicpc.net/problem/1043) | ![Gold V](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat) |
+
 ## WEEK 1 (0721 ~ 0727)
 
 ### DAY 1 자료구조
@@ -81,7 +119,7 @@ etc. 확인했으면 `approve`하기❗❗❗
 
 
 # 👓 PR 규칙
-- PR 제목: 이름/주차/문제번호
+- PR 제목: 이름/주차
 - PR 내용
   + 적용 알고리즘 간단히 설명
   + 시간 복잡도, 공간 복잡도 계산
@@ -98,9 +136,9 @@ etc. 확인했으면 `approve`하기❗❗❗
 
 # 📁 Repository 폴더 구조
 ```
-{GithubID}/week$/{날짜}/{코드.java}
+{GithubID}/week$/{날짜}/{BOJ_코드.java}
 ```
-→ ex) dnaeuuon/week1/20250721/1000.java
+→ ex) dnaeuuon/week1/250721/BOJ_1000.java
 
 # 💬 Commit Convention
 ``` 
