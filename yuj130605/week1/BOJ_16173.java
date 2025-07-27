@@ -27,6 +27,11 @@ public class BOJ_16173 {
             return true;
         }
 
+        if (visited[row][col]) {
+            return false;
+        }
+        visited[row][col] = true;
+
         // 하
         if ((row+grid[row][col] < N) && jump(N, grid, row+grid[row][col], col, visited)) {
             return true;
