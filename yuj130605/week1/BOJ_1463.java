@@ -19,17 +19,15 @@ public class BOJ_1463 {
 			return cnt[N];
 		}
 
-		while (cnt[N] == null) {
-			if (N%6 == 0) {
-				cnt[N] = Math.min(dp(N-1, cnt), Math.min(dp(N/3, cnt), dp(N/2, cnt)))+1;
-			} else if(N%3 == 0){
-				cnt[N] = Math.min(dp(N-1, cnt), dp(N/3, cnt))+1;
-			} else if(N%2 == 0){
-				cnt[N] = Math.min(dp(N-1, cnt), dp(N/2, cnt))+1;
-			} else {
-				cnt[N] = dp(N-1, cnt)+1;
-			}
-		}
+		if (N%6 == 0) {
+            cnt[N] = Math.min(dp(N/3, cnt), Math.min(dp(N/2, cnt), dp(N-1, cnt)))+1;
+        } else if(N%3 == 0){
+            cnt[N] = Math.min(dp(N/3, cnt), dp(N-1, cnt))+1;
+        } else if(N%2 == 0){
+            cnt[N] = Math.min(dp(N/2, cnt), dp(N-1, cnt))+1;
+        } else {
+            cnt[N] = dp(N-1, cnt)+1;
+        }
 
 		return cnt[N];
 	}
