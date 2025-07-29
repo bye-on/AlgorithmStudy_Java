@@ -9,6 +9,18 @@
 
 - 추후 코드리뷰 각자 진행
 
+# 📁 Repository 폴더 구조
+```
+{GithubID}/week$/{날짜}/{BOJ_코드.java}
+```
+→ ex) dnaeuuon/week1/250721/BOJ_1000.java
+
+# 💬 Commit Convention
+``` 
+[#문제번호/{Github ID}] 문제이름
+```
+→ ex) [#1000/dnaeuuon] A+B
+
 # 📝 참여 방법
 ```
 1. 이 저장소를 `clone`한다.
@@ -134,14 +146,3 @@ etc. 확인했으면 `approve`하기❗❗❗
   + 또 다른 풀이 방식 제시
 - 코드의 일부분에 코드리뷰 해도 되고 전체 코드 밑이나 PR 밑에다 코멘트 작성으로 리뷰해도 됩니다.
 
-# 📁 Repository 폴더 구조
-```
-{GithubID}/week$/{날짜}/{BOJ_코드.java}
-```
-→ ex) dnaeuuon/week1/250721/BOJ_1000.java
-
-# 💬 Commit Convention
-``` 
-[#문제번호/{Github ID}] 문제이름
-```
-→ ex) [#1000/dnaeuuon] A+B
