@@ -49,7 +49,7 @@ etc. 확인했으면 `approve`하기❗❗❗
 | # | Title | Difficulty |
 | :---: | :---: | :---: |
 | 1 | [15649 N과 M (1)](https://www.acmicpc.net/problem/15649) | ![Silver III](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |
-| 2 | [15650 N과 M (2)](https://www.acmicpc.net/problem/2805) | ![Silver III](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |
+| 2 | [15650 N과 M (2)](https://www.acmicpc.net/problem/15650) | ![Silver III](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |
 
 ### DAY 8 최단경로
 
