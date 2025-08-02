@@ -81,8 +81,8 @@ etc. 확인했으면 `approve`하기❗❗❗
 
 | # | Title | Difficulty |
 | :---: | :---: | :---: |
-| 1 | [2056 작업](https://www.acmicpc.net/problem/1717) | ![Gold IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
-| 2 | [14567 선수과목 (Prerequisite)](https://www.acmicpc.net/problem/1043) | ![Gold V](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat) |
+| 1 | [2056 작업](https://www.acmicpc.net/problem/2056) | ![Gold IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
+| 2 | [14567 선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567) | ![Gold V](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat) |
 
 ## WEEK 1 (0721 ~ 0727)
 
