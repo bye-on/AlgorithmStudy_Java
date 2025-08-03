@@ -46,6 +46,43 @@ etc. 확인했으면 `approve`하기❗❗❗
 - 위 싸이클(3주 간격)로 스터디 진행
 - 심화 문제는 개인적으로 추가 공부 (기본 문제가 익숙해진다면 함께 진행)
 
+## WEEK 3 (0804 ~ 0810)
+
+### DAY 11
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [1946 신입사원](https://www.acmicpc.net/problem/1946) | ![Silver I](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |
+| 2 | [2852 NBA 농구](https://www.acmicpc.net/problem/2852) | ![Silver III](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |
+
+### DAY 12
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [24542 튜터-튜티 관계의 수](https://www.acmicpc.net/problem/24542) | ![Silver I](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |
+| 2 | [14235 크리스마스 선물](https://www.acmicpc.net/problem/14235) | ![Silver III](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |
+
+### DAY 13
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [14889 스타트와 링크](https://www.acmicpc.net/problem/14889) | ![Silver I](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |
+| 2 | [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | ![Silver I](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |
+
+### DAY 14
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [1654 랜선 자르기](https://www.acmicpc.net/problem/1654) | ![Silver II](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |
+| 2 | [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | ![Silver II](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |
+
+### DAY 15
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | ![Silver II](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |
+| 2 | [14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) | ![Silver I](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |
+
 ## WEEK 2 (0728 ~ 0803)
 
 ### DAY 6 이분탐색/투포인터
