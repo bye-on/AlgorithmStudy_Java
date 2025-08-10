@@ -46,6 +46,39 @@ etc. 확인했으면 `approve`하기❗❗❗
 - 위 싸이클(3주 간격)로 스터디 진행
 - 심화 문제는 개인적으로 추가 공부 (기본 문제가 익숙해진다면 함께 진행)
 
+## WEEK 4 (0811 ~ 0817)
+> A형 대비를 위해 이번주는 한 문제만 풀이합니다
+
+### DAY 16
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [14510. 나무 높이](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4) | ![D2](https://img.shields.io/badge/D2-A3A3A3?style=flat) |
+
+### DAY 17
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [1249. [S/W 문제해결 응용] 4일차 - 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) | ![D4](https://img.shields.io/badge/D4-A3A3A3?style=flat) |
+
+### DAY 18
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [1251. [S/W 문제해결 응용] 4일차 - 하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD) | ![D4](https://img.shields.io/badge/D4-A3A3A3?style=flat) |
+
+### DAY 19
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [17471 게리멘더링](https://www.acmicpc.net/problem/17471) | ![Gold III](https://img.shields.io/badge/GOLD%20III-D5A11E?style=flat) |
+
+### DAY 20
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [5643. [Professional] 키 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo#none) | ![D4](https://img.shields.io/badge/D4-A3A3A3?style=flat) |
+
 ## WEEK 3 (0804 ~ 0810)
 
 ### DAY 11
