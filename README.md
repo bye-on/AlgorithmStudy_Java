@@ -72,11 +72,11 @@ etc. 확인했으면 `approve`하기❗❗❗
 | :---: | :---: | :---: |
 | 1 | [2357. 최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | ![Gold I](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat) |
 
-### DAY 25 팬윅트리
+### DAY 25 다익스트라
 
 | # | Title | Difficulty |
 | :---: | :---: | :---: |
-| 1 | [2042. 구간 합 구하기](https://www.acmicpc.net/problem/2042) | ![Gold I](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat) |
+| 1 | [1753. 최단경로](https://www.acmicpc.net/problem/1753) | ![Gold IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
 
 
 ---
