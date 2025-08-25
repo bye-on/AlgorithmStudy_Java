@@ -46,8 +46,44 @@ etc. 확인했으면 `approve`하기❗❗❗
 - 위 싸이클(3주 간격)로 스터디 진행
 - 심화 문제는 개인적으로 추가 공부 (기본 문제가 익숙해진다면 함께 진행)
 
-## WEEK 4 (0811 ~ 0817)
-> A형 대비를 위해 이번주는 한 문제만 풀이합니다
+## WEEK 5 (0825 ~ 0829)
+
+### DAY 21 투포인터
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [2531. 회전 초밥](https://www.acmicpc.net/problem/2531) | ![SILVER%20I](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |
+
+### DAY 22 비트마스킹 
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [15787. 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | ![SILVER%20II](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |
+
+### DAY 23 LIS
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | ![SILVER%20II](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |
+
+### DAY 24 세그먼트 트리 
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [2357. 최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | ![Gold I](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat) |
+
+### DAY 25 팬윅트리
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [2042. 구간 합 구하기](https://www.acmicpc.net/problem/2042) | ![Gold I](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat) |
+
+
+---
+
+<details>
+<summary>WEEK 4 (0811 ~ 0817)</summary>
+<div markdown="1">
 
 ### DAY 16
 
@@ -79,8 +115,15 @@ etc. 확인했으면 `approve`하기❗❗❗
 | :---: | :---: | :---: |
 | 1 | [5643. [Professional] 키 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo#none) | ![D4](https://img.shields.io/badge/D4-A3A3A3?style=flat) |
 
-## WEEK 3 (0804 ~ 0810)
+</div>
+</details>
 
+---
+
+<details>
+<summary>WEEK 3 (0804 ~ 0810)</summary>
+<div markdown="1">
+  
 ### DAY 11
 
 | # | Title | Difficulty |
@@ -116,7 +159,14 @@ etc. 확인했으면 `approve`하기❗❗❗
 | 1 | [11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | ![Silver II](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |
 | 2 | [14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) | ![Silver I](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |
 
-## WEEK 2 (0728 ~ 0803)
+</div>
+</details>
+
+---
+
+<details>
+<summary>WEEK 2 (0728 ~ 0803)</summary>
+<div markdown="1">
 
 ### DAY 6 이분탐색/투포인터
 
@@ -154,7 +204,15 @@ etc. 확인했으면 `approve`하기❗❗❗
 | 1 | [2056 작업](https://www.acmicpc.net/problem/2056) | ![Gold IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
 | 2 | [14567 선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567) | ![Gold V](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat) |
 
-## WEEK 1 (0721 ~ 0727)
+
+</div>
+</details>
+
+---
+
+<details>
+<summary>WEEK 1 (0721 ~ 0727)</summary>
+<div markdown="1">
 
 ### DAY 1 자료구조
 
@@ -199,6 +257,8 @@ etc. 확인했으면 `approve`하기❗❗❗
 | 1 | [1463 1로 만들기](https://www.acmicpc.net/problem/1463) | ![Silver III](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |
 | 2 | [2579 계단 오르기](https://www.acmicpc.net/problem/2579) | ![Silver III](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |
 
+</div>
+</details>
 
 # 👓 PR 규칙
 - PR 제목: 이름/주차
